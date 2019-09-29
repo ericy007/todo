@@ -6,6 +6,9 @@ RSpec.describe TasksController, type: :controller do
       task1 = FactoryBot.create(:task)
       task2 = FactoryBot.create(:task)
       get :index
+      response_value = ActiveSupport::JSON.decode(@response.body)
+      expect(response_value.count).to eq(2)
+
     end
   end
 end
