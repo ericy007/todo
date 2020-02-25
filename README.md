@@ -1,24 +1,5 @@
 # README
+WebApp generating a To do list on a single page using AJAX at a deep level, as well as DOM.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Objective
+Building single page app using DOM and JavaScript is  a common practice to achieve a simple and ery responsive app
