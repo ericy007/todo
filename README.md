@@ -1,24 +1,13 @@
-# README
+# Introduction
+The task is to write a simple todo list application that allows
+the user to add a task by typing into the input field and clicking on the Add button.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# How to Install
+```
+$ rails new todo-list-app
+```
+Just use this command in terminal:
+```
+rails server
+```
+And look at the rails opening screen.
