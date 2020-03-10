@@ -21,3 +21,12 @@ We can create our first model.
 ```
 rails generate model Todo item:string
 ```
+This command will create migration create_todos. We want to migrate the table to database
+```
+rake db:migrate
+```
+Now we can start to insert records todatabase.
+Open up rails console
+```
+rails console
+```
