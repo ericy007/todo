@@ -30,3 +30,5 @@ Open up rails console
 ```
 rails console
 ```
+# Author
+[Eric Yabit](https://github.com/ericy007/todo)
