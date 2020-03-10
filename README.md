@@ -17,3 +17,7 @@ We’ve added slim-rails gem to our gem, now we run the bundle install
 ```
 $ bundle install
 ```
+We can create our first model.
+```
+rails generate model Todo item:string
+```
